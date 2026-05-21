@@ -19,5 +19,11 @@
 #21-05記錄
 1. Done-Del Main old file.py
 2. USE git bash upload <25mb file.pptx, total 9 file
-3. control git bash and PC 
+3. control git bash and PC
+4. Upload 4 file
+   4-1 00_pyfile #入門python+pygame的指令
+   4-2 practices 編輯遊戲任務的常規指令
+   4-3 02_補充資料 #包括python基礎+面向對象編程
+   4-4 03_resources 遊戲編程過程裡使用的"音效及圖片"
+   4-5 04_homework #包含單元2至單元5練習/綜合作業
 
