@@ -8,9 +8,9 @@
   3. 未被編輯的部分后續跟進
 
 #問題&疑問
-  A. Vscode為入門平台-受限於Win.sys使用
-  B. Iped系統使用online Web Vscode操作
-  C. 透過Git空間執行雲端資源整理
+  1. Vscode為入門平台-受限於Win.sys使用
+  2. Iped系統使用online Web Vscode操作
+  3. 透過Git空間執行雲端資源整理
 
 #目標
   1. 回顧授課7節PPT檔案
