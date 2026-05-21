@@ -17,6 +17,7 @@
   2. 執行&達成簡單遊戲編製(非AI生成)
 
 #21-05記錄
-Main區域已刪去舊有的py檔案
-exerciseFile區域保留舊有py檔案
-將上載新版資源
+1. Done-Del Main old file.py
+2. USE git bash upload <25mb file.pptx, total 9 file
+3. control git bash and PC 
+
